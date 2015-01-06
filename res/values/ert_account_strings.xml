@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="account_name">ETR</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>    
+    <string name="title_activity_login">Login with your ERT account</string>
+    <string name="btn_login">Login</string>
+</resources>
